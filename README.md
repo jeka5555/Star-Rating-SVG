@@ -1,2 +1,2 @@
 # Star-Rating-SVG
-one SVG file and nothing more
+One SVG file and nothing more.
